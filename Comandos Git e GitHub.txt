@@ -1,0 +1,7 @@
+git clone : Clona repositorios remotos do cliente roube para uma pasta local
+
+git status : mostra status
+
+git add. : adiciona todos os arquivos alterados na fila para commit
+
+git commit - 
