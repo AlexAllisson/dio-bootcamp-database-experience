@@ -4,4 +4,6 @@ git status : mostra status
 
 git add. : adiciona todos os arquivos alterados na fila para commit
 
-git commit - 
+git commit -m (seleciona todos os arquivos , para fazer o push)
+
+git push origin main - manda dos os arquvios para o repositorio do github
